@@ -20,8 +20,6 @@
 
 </p>
 
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanim)
 
 ## Kurulum
 
